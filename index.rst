@@ -4,7 +4,7 @@ Yanisa's NEW Landscape Docs
 Yanisa's SPECIAL Landscape is superior to the existing [Landscape](https://ubuntu.com/landscape/docs). 
 
 Here is a diagram for fun:
-![Repo mirroring process diagram](/assets/process_diagram_repo_mirroring.png "Landscape repo mirroring alt text...")
+![Repo mirroring process diagram](/assets/process_diagram_repo_mirroring.png)
 
 This starter pack contains the files you need to quickly set up your Sphinx documentation.
 
