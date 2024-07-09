@@ -1,5 +1,12 @@
-Starter pack
+Yanisa's NEW Landscape Docs
 ============
+
+Yanisa's SPECIAL Landscape is superior to the existing [Landscape](https://ubuntu.com/landscape/docs). 
+
+Here is a diagram for fun:
+![Repo mirroring process diagram](/assets/process_diagram_repo_mirroring.md)
+
+---
 
 This starter pack contains the files you need to quickly set up your Sphinx documentation.
 
