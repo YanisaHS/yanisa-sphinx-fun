@@ -1,4 +1,6 @@
-:orphan:
+---
+orphan: true
+---
 
 Yanisa's JUST FOR FUN Docs
 =============================

@@ -89,7 +89,7 @@ html_context = {
 
     # Change to the GitHub URL for your project
     # This is used, for example, to link to the source files and allow creating GitHub issues directly from the documentation.
-    'github_url': 'https://github.com/canonical/sphinx-docs-starter-pack',
+    'github_url': 'https://github.com/YanisaHS/yanisa-sphinx-fun',
 
     # Change to the branch for this version of the documentation
     'github_version': 'main',
