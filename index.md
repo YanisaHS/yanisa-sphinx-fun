@@ -25,10 +25,10 @@ More information is available in the `reStructuredText style guide`_.
 
 ```{toctree}
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 6
 
    ReadMe <readme>
-   Referene <reference>
+   Test <reference/test.md>
 ```
 
 <!-- LINKS -->
