@@ -1,9 +1,10 @@
-Yanisa's NEW Landscape Docs
+Yanisa's JUST FOR FUN Docs
 =============================
 
-Yanisa's SPECIAL Landscape is superior to the existing [Landscape](https://ubuntu.com/landscape/docs). 
+LiNk tO [Landscape]. 
 
-Here is a diagram for fun:
+Here is a diagram. Enjoy!
+
 ![Repo mirroring process diagram](/assets/process_diagram_repo_mirroring.png)
 
 This starter pack contains the files you need to quickly set up your Sphinx documentation.
@@ -23,3 +24,7 @@ More information is available in the `reStructuredText style guide`_.
    :maxdepth: 2
 
    ReadMe <readme>
+
+<!-- LINKS -->
+
+[Landscape]: https://ubuntu.com/landscape/docs
