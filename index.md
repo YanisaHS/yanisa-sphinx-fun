@@ -23,11 +23,13 @@ For quick help on reST or MyST syntax, see the :file:`doc-cheat-sheet.rst.txt` o
 
 More information is available in the `reStructuredText style guide`_.
 
-.. toctree::
+```{toctree}
    :hidden:
    :maxdepth: 2
 
    ReadMe <readme>
+   Referene <reference>
+```
 
 <!-- LINKS -->
 
