@@ -1,3 +1,5 @@
+:orphan:
+
 Yanisa's JUST FOR FUN Docs
 =============================
 
